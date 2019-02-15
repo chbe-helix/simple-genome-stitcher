@@ -5,7 +5,7 @@
 # 
 # This is a prototype script to align two linear sequences (genomes)
 # 
-# fast-genome-aligner is free software: you can redistribute it and/or modify
+# simple-genome-stitcher is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
 # (at your option) any later version.
