@@ -104,8 +104,8 @@ def convert_coord(nidx, idx_base, fn, form):
 
         if 'chr' in chrom:
             chrom = chrom.replace('chr', '')
-        else:
-            line[0] = 'chr' + chrom
+        # else:
+        #    line[0] = 'chr' + chrom if chrom.isdigit() else chrom
         if chrom != prev_chr:
             pos = 0
 
